@@ -1,6 +1,6 @@
 {
-  "name": "Ventus",
-  "version": "0.2.0",
+  "name": "je-ventus",
+  "version": "0.2.1",
   "private": true,
   "main":"dist/ventus.js",
   "dependencies": {},
